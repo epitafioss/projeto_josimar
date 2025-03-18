@@ -1,0 +1,22 @@
+footer{
+    border: 1px;
+    color: white;
+    text-align: center;
+}
+.copyright{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+#abouttitle{
+    position: relative;
+    left: 20px;
+    margin-bottom: 90px;
+}
+li{
+    display: inline-block;
+}
+#copyr{
+    position: relative;
+    left: 25px;
+}

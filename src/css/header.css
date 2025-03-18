@@ -1,0 +1,59 @@
+.roboto-mono{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+#unreallogo{
+    width: 190px;
+    align-self: center;
+    display:relative;
+    position: relative;
+    left: 30px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 auto;
+    margin-bottom: 200px;
+}
+.navlist{
+    text-align: center;
+    display: inline-block;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navlist a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 16px;
+    display: inline-block;
+}
+.navlist ul{
+    padding: 0;
+}
+.navlist li, a{
+    display: inline-block;
+    text-align: center;
+    font-family: "roboto Mono", monospace;
+    font-size: 20px;
+    font-style: normal;
+    color: #E3EFF6;
+}
+#bttn_launch{
+    background-color: #0E394F;
+    color: #E3EFF6;
+    border-radius: 20px;
+    width: 190px;
+    height: 63px;
+    font-size: 24px;
+}
+.btn_download{
+    position: relative;
+    left: 850px;
+    top: -300px;
+}
+button{
+    border: 0;
+}

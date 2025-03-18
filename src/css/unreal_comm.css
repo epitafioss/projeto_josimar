@@ -1,0 +1,40 @@
+#unreal{
+    color: #DF3E2A;
+    font-size: 16px;
+    font-family: "Unbounded", sans-serif;
+}
+.calltocomm{
+    color: white;
+    text-align: center;
+}
+.subtxtcomm{
+    text-align: center;
+    font-style: medium;
+    font-family: "Roboto Mono", monospace;
+    color: #7A7E9F;
+    font-size: 10px;
+}
+#fotos{
+    border-radius: 800px;
+    width: 67px;
+    position: relative;
+    left: 550px;
+    top: 20px;
+}
+.joindisc{
+    background-color: #0E394F;
+    color: #E3EFF6;
+    border-radius: 20px;
+    width: 300px;
+    height: 63px;
+    font-size: 17px;
+    font-family: "Unbounded", sans-serif;
+    position: relative;
+    left: 800px;
+    top: 60px;
+    margin-bottom: 100px;
+}
+#disclogo{
+    width: 20px;
+    height: 20px;
+}
