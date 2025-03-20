@@ -29,7 +29,7 @@
     font-style: bold;
     font-weight: 200;
     text-align: center;
-    margin-bottom: -30px;
+    margin-bottom: -40px;
 }
 .subnomezudo{
     font-family: "Unbounded", sans-serif;
@@ -75,6 +75,7 @@
     display: absolute;
     position: relative;
     top: -50px;
+    margin-bottom: -100px;
 }
 html, body {
     max-width: 120%;
